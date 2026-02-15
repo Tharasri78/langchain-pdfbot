@@ -28,13 +28,14 @@ Users can upload a PDF and ask questions. The bot answers **strictly based on th
 ## 📁 Project Structure
 
 Q&A/
-├── app.py # Streamlit UI
-├── chain.py # LLM + prompt logic
-├── loader.py # PDF loader
-├── splitter.py # Text splitter
-├── requirements.txt
-├── .gitignore
-├── .env.example # Environment variable template
+├── app.py              # Streamlit UI
+├── chain.py            # LLM + prompt logic (Groq)
+├── loader.py           # PDF loader
+├── splitter.py         # Text splitter
+├── requirements.txt    # Python dependencies
+├── .gitignore          # Git ignore rules
+├── .env.example        # Environment variable template
+
 
 
 ---
