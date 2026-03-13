@@ -1,0 +1,9 @@
+[project]
+name = "pdf-chatbot"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.2.12",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+]
