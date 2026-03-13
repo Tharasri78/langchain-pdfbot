@@ -5,6 +5,9 @@ A Retrieval-Augmented Generation (RAG) based chatbot that allows users to upload
 The system processes the document, creates semantic embeddings, stores them in a FAISS vector database, and uses Groq’s Llama model to generate accurate answers based on the document context.
 
 ---
+## Live Demo
+https://langchain-pdfbot-bvhelrhbfhlebgjivsf79k.streamlit.app
+---
 
 ##  Features
 
