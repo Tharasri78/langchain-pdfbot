@@ -1,8 +1,11 @@
 streamlit
 langchain
+langchain-core
 langchain-community
 langchain-groq
+langchain-text-splitters
 pypdf
 faiss-cpu
-python-dotenv
 sentence-transformers
+python-dotenv
+torch
